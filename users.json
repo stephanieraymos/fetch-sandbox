@@ -2,16 +2,22 @@
   {
     "id": 1,
     "name": "Stephanie",
-    "email": "stephanieraymos@gmail.com"
+    "email": "stephanieraymos@gmail.com",
+    "profession": "Amazon Affiliate | Web Developer",
+    "skills": "Full Stack Web Development | Advertising | Advanced design implementation"
   },
   {
     "id": 2,
     "name": "Audie",
-    "email": "audriannakraymos@gmail.com"
+    "email": "audriannakraymos@gmail.com",
+    "profession": "Amazon Affiliate | Graphic Designer",
+    "skills": "Advertising | Graphic Design using Adobe Illustrator | Painting"
   },
   {
     "id": 3,
     "name": "Oliver",
-    "email": "ollieoutloud@gmail.com"
+    "email": "ollieoutloud@gmail.com",
+    "profession": "Toddler",
+    "skills": "Incessant back talk | Crapping on the floor | Destroying anything in path"
   }
 ]

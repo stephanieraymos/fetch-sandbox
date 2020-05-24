@@ -4,12 +4,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="main.css">
   <title>Fetch API Sandbox</title>
 </head>
 
 <body>
-  <button id="getText">Get Text</button>
-  <button id="getUsers">Get Users</button>
+  <button class="textBtn" id="getText">Get Text</button>
+  <button class="userBtn" id="getUsers">Get Users</button>
   <div id="output"></div>
 
   <script>
@@ -44,6 +45,8 @@
               <li>ID: ${user.id}</li>
               <li>Email: ${user.email}</li>
               <li>Name: ${user.name}</li>
+              <li>Skills: ${user.skills}</li>
+              <li>Profession: ${user.profession}</li>
               </ul>
               `;
             });
