@@ -19,5 +19,12 @@
     "email": "ollieoutloud@gmail.com",
     "profession": "Toddler",
     "skills": "Incessant back talk | Crapping on the floor | Destroying anything in path"
+  },
+  {
+    "id": 4,
+    "name": "Skyler",
+    "email": "skylernordquist@gmail.com",
+    "profession": "Waiter",
+    "skills": "Kickass people skills | Research connoiseur | Yoga master"
   }
 ]
